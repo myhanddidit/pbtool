@@ -40,4 +40,4 @@ def check_list(username, password)
 
 end
 
-check_list("stott", "xxxx")
+check_list("stott", "CfCKZ83=UDs;yq")
